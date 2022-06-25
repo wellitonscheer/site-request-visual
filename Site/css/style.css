@@ -45,7 +45,7 @@ body {
   text-align: left;
   background-color: #fff;
   font-weight: 400;
-  color: #6c757d;
+  color: black;
 }
 
 /*--------------------
@@ -224,8 +224,8 @@ img {
 }
 
 .bg-primary, .btn-primary, .btn-white:hover {
-  background: #21c87a !important;
-  border-color: #21c87a !important;
+  background: #2c9fd6 !important;
+  border-color: #2c9fd6 !important;
   color: #fff;
 }
 
@@ -277,11 +277,11 @@ img {
 }
 
 .bg-primary {
-  background: #21c87a !important;
+  background: #2c9fd6 !important;
 }
 
 a {
-  color: #21c87a;
+  color: #2c9fd6;
 }
 
 a:hover, a:focus {
@@ -302,7 +302,7 @@ a:hover, a:focus {
 }
 
 .header-socials li a {
-  color: #21c87a;
+  color: #2c9fd6;
 }
 
 /*-----------------
@@ -322,7 +322,7 @@ a:hover, a:focus {
 
 .icon-block {
   margin-right: 20px;
-  color: #21c87a;
+  color: #2c9fd6dd;
   font-size: 40px;
   line-height: 20px;
   font-weight: 400;
@@ -346,7 +346,7 @@ a:hover, a:focus {
  HOME-3
 ---------------------------*/
 .header-white {
-  background: #21c87a;
+  background: #2c9fd6;
   box-shadow: 0 7px 22px rgba(0, 0, 0, 0.08);
   border-radius: 0px;
 }
@@ -405,7 +405,7 @@ PRELOADER
   -webkit-border-radius: 100px;
   -o-border-radius: 100px;
   -ms-border-radius: 100px;
-  border-right: 3px solid #1453F2 !important;
+  border-right: 3px solid #2c9fd6 !important;
   border-top: 3px solid rgba(19, 19, 19, 0.1) !important;
   height: 50px;
   left: 50%;
@@ -647,7 +647,7 @@ PAGE BANNER
 .dropdown-item:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #21c87a;
+  background-color: #2c9fd6;
 }
 
 /*----------------------
@@ -740,7 +740,7 @@ PAGE BANNER
   position: absolute;
   content: "";
   top: -27px;
-  background-color: #21c87a;
+  background-color: #2c9fd6;
   opacity: .3;
   width: 80px;
   right: 70px;
@@ -765,7 +765,7 @@ ABOUT-2
 }
 
 #about .img-block img {
-  border: 5px solid #21c87a;
+  border: 5px solid #2c9fd6;
 }
 
 .pt-6 {
@@ -780,7 +780,7 @@ ABOUT-2
  SERVICE
 -----------------------*/
 h5.subtitle {
-  color: #21c87a;
+  color: #2c9fd6;
   margin-bottom: 10px;
   font-weight: 300;
 }
@@ -811,7 +811,7 @@ h5.subtitle {
   font-size: 25px;
   width: 50px;
   height: 50px;
-  background: #21c87a;
+  background: #2c9fd6;
   text-align: center;
   border-radius: 50%;
   padding-top: 5px;
@@ -841,7 +841,7 @@ h5.subtitle {
   top: 0px;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(30deg, rgba(121, 110, 255, 0.95) 0%, rgba(33, 200, 122, 0.95) 100%);
+  background-image: linear-gradient(30deg, #2c9fd6 0%, rgba(26, 173, 232, 0.95) 100%);
 }
 
 .web-service-block {
@@ -875,7 +875,7 @@ h5.subtitle {
 }
 
 .web-service-block:hover i {
-  color: #21c87a;
+  color:#2c9fd6;
 }
 
 .web-service-block:hover h3 {
@@ -887,8 +887,8 @@ h5.subtitle {
 }
 
 .service-img {
-  margin-bottom: -200px;
-  border: 10px solid #fff;
+ margin-bottom: -200px;
+  border: 5px solid #fff;
   z-index: 9999;
 }
 
@@ -957,7 +957,7 @@ h5.subtitle {
 }
 
 .project-content-block h4 {
-  color: #21c87a;
+  color: #2c9fd6;
 }
 
 .project-content-block p {
@@ -995,7 +995,7 @@ h5.subtitle {
   position: absolute;
   left: 30px;
   top: -23px;
-  background: #21c87a;
+  background: #2c9fd6;
   color: #fff;
 }
 
@@ -1109,7 +1109,7 @@ h5.subtitle {
   font-family: "Font Awesome 5 Free";
   left: 0px;
   top: 5px;
-  color: #21c87a;
+  color: #2c9fd6;
   font-weight: 900;
 }
 
@@ -1195,7 +1195,7 @@ PRICING-2
 }
 
 .blog-content:hover a h3 {
-  color: #21c87a;
+  color:#2c9fd6;
 }
 
 .blog-content h6 span {
@@ -1292,11 +1292,11 @@ CONTACT PAGE
   font-size: 40px;
   margin-bottom: 20px;
   display: block;
-  color: #21c87a;
+  color: #2c9fd6;
 }
 
 .form-control:focus, .form-control:hover {
-  border-color: #21c87a;
+  border-color: #2c9fd6;
   box-shadow: none;
 }
 
@@ -1331,7 +1331,7 @@ CONTACT PAGE
 }
 
 .footer-overlay {
-  background: #111;
+  background: black;
   opacity: .94;
 }
 
@@ -1376,7 +1376,7 @@ CONTACT PAGE
 }
 
 .current-year {
-  color: #21c87a !important;
+  color:#2c9fd6 !important;
 }
 
 /*-----------------------------
@@ -1388,7 +1388,7 @@ CONTACT PAGE
   right: 30px;
   bottom: 50px;
   z-index: 999;
-  background: #21c87a;
+  background: #2c9fd6;
   color: #fff !important;
   border-radius: 100%;
   opacity: 0;
@@ -1499,6 +1499,7 @@ CONTACT PAGE
   }
   .service-img {
     margin-bottom: 0px;
+
   }
   .service-content {
     padding-bottom: 70px;
@@ -1650,7 +1651,7 @@ CONTACT PAGE
   }
   .navbar-collapse.collapse.show {
     padding-bottom: 30px;
-    background: #21c87a;
+    background: #2c9fd6;
   }
   #map {
     margin-top: 40px;
@@ -1682,7 +1683,7 @@ CONTACT PAGE
   }
   .navbar-collapse.collapse.show {
     padding-bottom: 30px;
-    background: #21c87a;
+    background: #2c9fd6;
   }
   .top-info-block {
     text-align: center;
@@ -1905,7 +1906,7 @@ CONTACT PAGE
   }
   .navbar-collapse.collapse.show {
     padding-bottom: 30px;
-    background: #21c87a;
+    background: #2c9fd6;
   }
   .web-service-block {
     margin-bottom: 30px;
